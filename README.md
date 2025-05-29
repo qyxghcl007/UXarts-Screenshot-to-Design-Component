@@ -1,5 +1,9 @@
 # UXarts: Screenshot to Design Component -- Plugins Project
 
+![](https://img01.yzcdn.cn/upload_files/2025/05/29/FptJ1c5O1r1r1x47EEtBbwBmOE0y.png)
+
+[🚀 Quick Look: How It Works](https://uxarts-39cba.web.app/video.mp4)
+
 ## What can you do with Screenshot to Design Component?
 Screenshot to Design Component enables users to upload screenshots of webpages or apps and, using advanced AI and CV technology, extracts meaningful design components. These components are then converted into editable Figma files, seamlessly integrating into your design workflow. It’s the ultimate solution for transforming static screenshots into fully editable design assets.
 
