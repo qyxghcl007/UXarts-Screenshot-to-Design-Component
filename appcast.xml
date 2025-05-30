@@ -3,7 +3,7 @@
     <channel>
         <item>
             <enclosure
-                    url="https://github.com/qyxghcl007/UXarts-Screenshot-to-Design-Component/releases/download/v0.1.1/s2d-plugin.sketchplugin.zip" sparkle:version="0.1.2"/>
+                    url="https://github.com/qyxghcl007/UXarts-Screenshot-to-Design-Component/releases/download/v0.1.2/s2d-plugin.sketchplugin.zip" sparkle:version="1.0.0"/>
         </item>
     </channel>
 </rss>
