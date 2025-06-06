@@ -4,6 +4,11 @@
 
 [🚀 Quick Look: How It Works](https://uxarts-39cba.web.app/video.mp4)
 
+## Install
+* Download the most recent [here](https://github.com/qyxghcl007/UXarts-Screenshot-to-Design-Component/releases/download/v0.1.2/s2d-plugin.sketchplugin.zip)
+* Un-zip
+* Double-click on s2d-plugin.sketchplugin
+
 ## What can you do with Screenshot to Design Component?
 Screenshot to Design Component enables users to upload screenshots of webpages or apps and, using advanced AI and CV technology, extracts meaningful design components. These components are then converted into editable Figma files, seamlessly integrating into your design workflow. It’s the ultimate solution for transforming static screenshots into fully editable design assets.
 
