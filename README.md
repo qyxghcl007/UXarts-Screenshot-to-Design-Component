@@ -5,7 +5,7 @@
 [🚀 Quick Look: How It Works](https://file.yzcdn.cn/upload_files/yz-file/2025/06/16/lvIotkmV5VbHJvJ6a1GbMDkjHoCO.mp4)
 
 ## Install
-* Download the most recent [here](https://github.com/qyxghcl007/UXarts-Screenshot-to-Design-Component/releases/download/v0.1.3/s2d-plugin.sketchplugin.zip)
+* Download the most recent [here](https://github.com/qyxghcl007/UXarts-Screenshot-to-Design-Component/releases/download/v0.1.4/s2d-plugin.sketchplugin.zip)
 * Un-zip
 * Double-click on s2d-plugin.sketchplugin
 
